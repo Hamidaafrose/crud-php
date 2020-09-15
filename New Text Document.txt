@@ -1,0 +1,7 @@
+1) index.php
+2) insert.php
+3) store.php
+4) show.php
+5) delete.php
+6) edit.php
+7) update.php
