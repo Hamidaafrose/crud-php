@@ -24,9 +24,9 @@ echo "<br/>";
 echo strrev($c);        /*string reverse*/
 echo strrev(strrev($c));
 echo "<br/>";
-echo str_replace("love","marriage",$b);
+echo str_replace("he","Maruf",$b);
 echo "<br/>";
-echo strpos($b,"love");                 /*string position*/
+echo strpos($b,"old");                 /*string position*/
 echo "<br/>";
 define('NAME','Billie Eilish',true);    /*case in_sensitive*/
 echo NAME;
@@ -49,7 +49,9 @@ $x=$a++;        //first returns value then increments
 $y=++$b;        //first increments then returns 
 
 echo $x; 
+echo "<br/>";
 echo $y;
+echo "<br/>";
 
 $c=5;
 $d='5';
