@@ -4,7 +4,7 @@
 <title></title>
 </head>
 <body>
-
+<h3>GET/POST method & Filtering-function </h3>
 <form action="welcome.php" method="get">
 
     Name: <input required type="text" name="username"><br><br>
